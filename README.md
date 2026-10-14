@@ -2,6 +2,10 @@
 
 LANGUAGE
 PYTHON JAVA JAVASCRIPT
+
+Knowledge Check
+<img width="1920" height="1032" alt="螢幕擷取畫面 2026-09-30 153531" src="https://github.com/user-attachments/assets/cfb6e483-bbca-4ede-a1bb-fad9fa386521" />
+
 <img width="2560" height="1344" alt="螢幕擷取畫面 2026-10-14 105733" src="https://github.com/user-attachments/assets/794a9618-0dab-4803-8ead-d47496ae85c1" />
 3.2
 <img width="1920" height="1080" alt="螢幕擷取畫面 2026-10-14 143812" src="https://github.com/user-attachments/assets/842a066e-552d-4ed8-a187-5e726b7a9c41" />
