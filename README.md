@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 LANGUAGE
@@ -9,3 +10,8 @@ Knowledge Check
 <img width="2560" height="1344" alt="螢幕擷取畫面 2026-10-14 105733" src="https://github.com/user-attachments/assets/794a9618-0dab-4803-8ead-d47496ae85c1" />
 3.2
 <img width="1920" height="1080" alt="螢幕擷取畫面 2026-10-14 143812" src="https://github.com/user-attachments/assets/842a066e-552d-4ed8-a187-5e726b7a9c41" />
+3.3
+<img width="1920" height="1080" alt="螢幕擷取畫面 2026-10-21 142048" src="https://github.com/user-attachments/assets/a9e24484-c072-4f04-9065-f6a7abe37d71" />
+3.4
+<img width="1920" height="1080" alt="螢幕擷取畫面 2026-10-21 142048" src="https://github.com/user-attachments/assets/7489c679-0d10-4ed2-8f43-7de7ee14ace6" />
+
