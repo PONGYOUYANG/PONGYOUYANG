@@ -13,5 +13,6 @@ Knowledge Check
 3.3
 <img width="1920" height="1080" alt="螢幕擷取畫面 2026-10-21 142048" src="https://github.com/user-attachments/assets/a9e24484-c072-4f04-9065-f6a7abe37d71" />
 3.4
-<img width="1920" height="1080" alt="螢幕擷取畫面 2026-10-21 142048" src="https://github.com/user-attachments/assets/7489c679-0d10-4ed2-8f43-7de7ee14ace6" />
+<img width="1920" height="1080" alt="螢幕擷取畫面 2026-10-21 151836" src="https://github.com/user-attachments/assets/7bb18692-ac04-43a4-a977-ffb10b23a74f" />
+
 
